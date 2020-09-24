@@ -1,2 +1,0 @@
-<h1> Service </h1>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint laudantium voluptas sit dicta? Vel, ex possimus voluptatum, excepturi iusto vitae ipsa ipsum quod reiciendis exercitationem nemo, alias eum itaque sunt?</p>
